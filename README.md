@@ -6,8 +6,7 @@ For years I've kept a journal of my thoughts, emotions, and ideas for the future
 
 But really, most of it is quotes from books and articles I found striking, and vocabulary from said reading (I like to write down every word I can't define or give a synonym for, even if I have a fuzzy understanding of its meaning. I find etymology interesting).
 
-The quotes are fairly structured:
-
+The quotes are fairly structured:  
 "This is a typical quote."  
 \- pg. 58, A Quote of Two Quoties, by Charles Quotens
 
